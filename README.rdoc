@@ -1,0 +1,1 @@
+This is Issue Tracker which has front-end designed in AngularJS and uses rails REST API as back-end 
